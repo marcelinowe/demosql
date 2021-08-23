@@ -1,0 +1,12 @@
+C:\Users\marce\source\repos\SQLInjection\bin\Debug\SQLInjection.exe.config
+C:\Users\marce\source\repos\SQLInjection\bin\Debug\SQLInjection.exe
+C:\Users\marce\source\repos\SQLInjection\bin\Debug\SQLInjection.pdb
+C:\Users\marce\source\repos\SQLInjection\obj\Debug\SQLInjection.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\SQLInjection\obj\Debug\SQLInjection.Properties.Resources.resources
+C:\Users\marce\source\repos\SQLInjection\obj\Debug\SQLInjection.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\SQLInjection\obj\Debug\SQLInjection.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\SQLInjection\obj\Debug\SQLInjection.exe
+C:\Users\marce\source\repos\SQLInjection\obj\Debug\SQLInjection.pdb
+C:\Users\marce\source\repos\SQLInjection\obj\Debug\SQLInjection.Login2.resources
+C:\Users\marce\source\repos\SQLInjection\obj\Debug\SQLInjection.Login1.resources
+C:\Users\marce\source\repos\SQLInjection\obj\Debug\SQLInjection.Form1.resources
